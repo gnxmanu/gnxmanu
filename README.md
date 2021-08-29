@@ -1,16 +1,18 @@
-### Hi there 👋
+### About Me
+<!-- 
+Env. Eng. 
+Data Scientist
+  (Eco)Toxicology
+    Mathematical Modelling
+      PBTK
+      TK/TD
 
-<!--
-**gnxmanu/gnxmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects: A website of my professional path. HTML5/CSS, self-hosted, Shiny, 1080p video,
 
-Here are some ideas to get you started:
+Photography and video
+pipeline for
+Currently learning by practice: TYPO3 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gnxmanu&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+</p>
