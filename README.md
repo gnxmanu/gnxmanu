@@ -11,10 +11,13 @@
 <!-- Arch Manjaro macOS terminal atom-->
 
 <!-- ![Metrics](https://my-personal-domain.com/gnxmanu) -->
+<!-- 
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/gnxmanu/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/gnxmanu/blob/main/github-metrics.svg)
 
-
-
-
+ -->
 
 <!-- 
 Work expands so as to fill the time available for its completion. -Parkinson's law
