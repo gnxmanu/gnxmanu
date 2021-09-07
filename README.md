@@ -2,8 +2,8 @@
 
 <!-- If you're using "main" as default branch -->
 <!-- ![Metrics](https://github.com/gnxmanu/gnxmanu/blob/main/github-metrics.svg) -->
-![Metrics](https://metrics.lecoq.io/gnxmanu?template=classic&base.community=0&base.repositories=0&base.metadata=0&introduction=1&languages=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FParis)
-
+<!-- ![Metrics](https://metrics.lecoq.io/gnxmanu?template=classic&base.community=0&base.repositories=0&base.metadata=0&introduction=1&languages=1&activity=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FParis)
+ -->
 <!-- 
 <h3 align="center">A passionate frontend developer from the World</h3>
 
