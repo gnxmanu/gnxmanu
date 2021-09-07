@@ -1,4 +1,8 @@
 ### About Me
+<!-- Ignore "Followed by X users"
+Would be great to add total commits including private
+Fix comments on most used languages
+Remove "1 Language"-->
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/gnxmanu/gnxmanu/blob/main/github-metrics.svg)
