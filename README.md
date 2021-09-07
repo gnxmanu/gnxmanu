@@ -10,7 +10,7 @@
 
 <!-- Arch Manjaro macOS terminal atom-->
 
-![Metrics](https://my-personal-domain.com/gnxmanu)
+<!-- ![Metrics](https://my-personal-domain.com/gnxmanu) -->
 
 
 
