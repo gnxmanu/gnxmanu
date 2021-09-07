@@ -1,4 +1,14 @@
 ### About Me
+
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/gnxmanu/gnxmanu/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/gnxmanu/gnxmanu/blob/main/github-metrics.svg)
+<!-- If you're using the "columns" display mode -->
+<img src="https://github.com/gnxmanu/gnxmanu/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
 <!-- 
 <h3 align="center">A passionate frontend developer from the World</h3>
 
