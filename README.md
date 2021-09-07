@@ -15,9 +15,24 @@ Photography and video
 pipeline for
 Currently learning by practice: TYPO3 -->
 
-<p align="center">
+<!-- Host in different account vercel to not have that in my public repos -->
+<!-- <p align="center">
   <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=true&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnxmanu)](https://github.com/gnxmanu/github-readme-stats)
+
 </p>
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=false) -->
+
+<p align="center">
+  <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu">
+</p>
+
+<p align="center">
+  <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=true">
+</p>
+
+<p align="center">
+  <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=false">
+</p> -->
+
+<!-- https://vercel.com/gnxmanu/github-readme-stats -->
