@@ -19,30 +19,30 @@ jobs:
         # 🈷️ Most used languages
 
         # Enable or disable plugin
-        plugin_languages:
-          description: Display most used languages metrics
-          default: yes
+        plugin_languages: yes
+#           description: Display most used languages metrics
+#           default: yes
 
         # List of languages that will be ignored
-        plugin_languages_ignored:
-          description: Languages to ignore
-          default: ""
+#         plugin_languages_ignored:
+#           description: Languages to ignore
+#           default: ""
 
         # List of repositories that will be skipped
-        plugin_languages_skipped:
-          description: Repositories to skip
-          default: ""
+#         plugin_languages_skipped:
+#           description: Repositories to skip
+#           default: ""
 
         # Number of languages to display
-        # Set to 0 to disable limitations
-        plugin_languages_limit:
-          description: Maximum number of languages to display
-          default: 8
+#         # Set to 0 to disable limitations
+#         plugin_languages_limit:
+#           description: Maximum number of languages to display
+#           default: 8
 
         # Sections to display
-        plugin_languages_sections:
-          description: Sections to display
-          default: most-used
+#         plugin_languages_sections:
+#           description: Sections to display
+#           default: most-used
 
         # Overrides default languages colors
         # Use `${n}:${color}` to change the color of the n-th most used language (e.g. "0:red" to make your most used language red)
@@ -50,64 +50,67 @@ jobs:
         # Use a value from `colorsets.json` to use a predefined set of colors
         # Both hexadecimal and named colors are supported
         # This cannot be used when "plugin_languages_limit" is greater than 8
-        plugin_languages_colors:
-          description: Custom languages colors
-          default: github
+#         plugin_languages_colors:
+#           description: Custom languages colors
+#           default: github
 
         # Overrides default languages name
         # Use `${language}:${alias}` to change the name of language (e.g. "javascript:JS" to make JavaScript render as "JS", case of left operand ignored)
-        plugin_languages_aliases:
-          description: Custom languages names
-          default: ""
+#         plugin_languages_aliases:
+#           description: Custom languages names
+#           default: ""
 
         # Languages additional details
-        plugin_languages_details:
-          description: Additional details
-          default: ""
+#         plugin_languages_details:
+#           description: Additional details
+#           default: ""
 
         # Minimum threshold (in percentage) to reach for languages to be displayed
-        plugin_languages_threshold:
-          description: Minimum threshold
-          default: 0%
+#         plugin_languages_threshold:
+#           description: Minimum threshold
+#           default: 0%
 
         # Compute indepth languages statistics by cloning repositories and processing your commits individually
         # See documentation before enabling
-        plugin_languages_indepth:
-          description: Indepth languages processing (see documentation before enabling)
-          default: true
+#         plugin_languages_indepth:
+#           description: Indepth languages processing (see documentation before enabling)
+#           default: true
+          
+#           plugin_languages_indepth:true
 
         # Language categories to display
-        plugin_languages_categories:
-          description: Language categories to display
-          default: markup, programming, data
+#         plugin_languages_categories: markup, programming, data
+#         plugin_languages_categories: markup, programming
+#           description: Language categories to display
+#           default: markup, programming, data
 
         # GitHub language categories to display in recently-used section
-        plugin_languages_recent_categories:
-          description: Language categories to display (for recently used section)
-          default: markup, programming
+#         plugin_languages_recent_categories:
+#           description: Language categories to display (for recently used section)
+#           default: markup, programming
 
         # Number of activity events to load (for recently used languages statistics)
-        # A high number will consume more requests
-        plugin_languages_recent_load:
-          description: Number of events to load (for recently used section)
-          default: 300
+#         # A high number will consume more requests
+#         plugin_languages_recent_load:
+#           description: Number of events to load (for recently used section)
+#           default: 300
 
-        # Filter events by age (for recently used languages statistics)
-        # Set to 0 to disable age filtering
-        # Note that metrics won't be able to load more events than GitHub is able to provide
-        plugin_languages_recent_days:
-          description: Maximum event age (for recently used section)
-          default: 14
+#         # Filter events by age (for recently used languages statistics)
+#         # Set to 0 to disable age filtering
+#         # Note that metrics won't be able to load more events than GitHub is able to provide
+#         plugin_languages_recent_days:
+#           description: Maximum event age (for recently used section)
+#           default: 14
 
         # ====================================================================================
         # 🙋 Introduction
 
         # Enable or disable plugin
-        plugin_introduction:
-          description: Display account or repository introduction
-          default: yes
+        plugin_introduction: yes
+#           description: Display account or repository introduction
+#           default: yes
 
         # Display introduction section title
-        plugin_introduction_title:
-          description: Display introduction section title
-          default: yes
+        plugin_introduction_title: yes
+#           description: Display introduction section title
+#           default: yes
