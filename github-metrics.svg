@@ -1326,18 +1326,18 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 10 edited files from 68 commits
+            estimation from 10 edited files from 70 commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.7827307247813" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="267.7827307247813" y="0" width="165.7883440647185" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="433.57107478949973" y="0" width="15.84216608882285" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="449.4132408783226" y="0" width="6.576853227670464" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.990094105993" y="0" width="4.009905894006934" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.66143911439116" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="267.66143911439116" y="0" width="165.9679757511861" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="433.62941486557725" y="0" width="15.807195571955718" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="449.436610437533" y="0" width="6.562335266209805" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.9989457037427" y="0" width="4.001054296257248" height="8" fill="#198CE7"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1347,7 +1347,7 @@
                       Markdown
                     </div>
                             <small>
-                                <div>58.21%</div>
+                                <div>58.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1376,7 +1376,7 @@
                       YAML
                     </div>
                             <small>
-                                <div>36.04%</div>
+                                <div>36.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
