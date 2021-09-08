@@ -33,58 +33,51 @@ Currently learning by practice: TYPO3 -->
 </p>
  -->
 <!-- <h3 align="left">Languages and Tools:</h3> -->
+
 <p align="center"> 
 <!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> -->
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> -->
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain-wordmark.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> -->
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="css3" width="40" height="40"/> </a> -->
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="css3" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="" width="40" height="40"/> </a>
+<!-- <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" width="40" height="40"/> </a> -->
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="" width="40" height="40"/> </a>
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs?username=gnxmanu&show_icons=true&locale=en&layout=compact" alt="gnxmanu" /></p> -->
+
 
 <p align="center">
   <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=true&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6">
 </p>
 
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/gnxmanu/gnxmanu/blob/main/github-metrics.svg)
-
-
-<!--  [![Top Langs](https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu)](https://github.com/gnxmanu/github-readme-stats) -->
-<!-- 
-<p align="center">
-  <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu">
-</p>
+<!-- ![Metrics](https://github.com/gnxmanu/gnxmanu/blob/main/github-metrics.svg) -->
 
 <p align="center">
-  <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=true&layout=compact">
+<img src =https://github.com/gnxmanu/gnxmanu/blob/main/github-metrics.svg>
 </p>
 
-<p align="center">
-  <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=false">
-</p>
- -->
-<!-- https://vercel.com/gnxmanu/github-readme-stats -->
+<!-- Others -->
+
+    <!-- <p><img align="center" src="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs?username=gnxmanu&show_icons=true&locale=en&layout=compact" alt="gnxmanu" /></p> -->
+
+    <!--  [![Top Langs](https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu)](https://github.com/gnxmanu/github-readme-stats) -->
+    <!-- 
+    <p align="center">
+      <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu">
+    </p>
+
+    <p align="center">
+      <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=true&layout=compact">
+    </p>
+
+    <p align="center">
+      <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=false">
+    </p>
+     -->
+    <!-- https://vercel.com/gnxmanu/github-readme-stats -->
