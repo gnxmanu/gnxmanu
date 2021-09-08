@@ -45,9 +45,9 @@ Currently learning by practice: TYPO3 -->
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original.svg" alt="" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="" width="40" height="40"/> </a>
 <!-- <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" width="40" height="40"/> </a> -->
 <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="" width="40" height="40"/> </a>
 </p>
 
 
