@@ -14,7 +14,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          base: 
           plugin_introduction: no
 #           plugin_introduction_title: no # Hide section title
           plugin_languages: no
