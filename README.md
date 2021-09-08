@@ -23,9 +23,7 @@ Currently learning by practice: TYPO3 -->
 <!-- Host in different account vercel to not have that in my public repos -->
 
 <!-- If you're using "main" as default branch -->
-<p align="center"> <a 
 ![Metrics](https://github.com/gnxmanu/gnxmanu/blob/main/github-metrics.svg)
-</a> </p>
 
 <!-- <h3 align="center">A passionate frontend developer from the World</h3> -->
 
