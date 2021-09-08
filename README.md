@@ -37,7 +37,7 @@ Currently learning by practice: TYPO3 -->
 <p align="center">
   <img src ="https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu&count_private=true&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnxmanu)](https://github.com/gnxmanu/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-pi-five-38.vercel.app/api/top-langs/?username=gnxmanu)](https://github.com/gnxmanu/github-readme-stats)
 </p>
 
 <p align="center">
