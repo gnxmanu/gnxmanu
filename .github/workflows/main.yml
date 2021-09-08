@@ -15,7 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 #           filename: metrics.svg
-          base: header, activity
+          base: header
 #           header, activity, community, repositories, metadata
           plugin_introduction: yes
           plugin_introduction_title: no # Hide section title
