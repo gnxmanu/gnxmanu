@@ -1,3 +1,6 @@
+<!-- ![Cover](/cover.jpg) -->
+<!-- *Photo by [ME](https://X.com)[Website](https://website.com)* -->
+
 ### About Me
 <!-- 
 Work expands so as to fill the time available for its completion. -Parkinson's law -->
